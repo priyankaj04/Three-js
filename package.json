@@ -1,0 +1,19 @@
+{
+  "name": "threejs",
+  "version": "1.0.0",
+  "description": "Learning 3js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyankaj04/Three-js.git"
+  },
+  "author": "Priyanka J",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyankaj04/Three-js/issues"
+  },
+  "homepage": "https://github.com/priyankaj04/Three-js#readme"
+}
